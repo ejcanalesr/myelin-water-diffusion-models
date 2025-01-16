@@ -10,7 +10,7 @@ This repository contains the models, synthetic datasets, and scripts described i
 
 Quantifying the myelin sheath radius of myelinated axons *in vivo* is critical for understanding, diagnosing, and monitoring various neurological disorders. Despite advancements in diffusion MRI (dMRI) microstructure techniques, models specifically designed to estimate myelin sheath radii have remained unavailable.  
 
-This proof-of-concept theoretical study introduces two novel dMRI models that characterize the dMRI signal from water diffusion confined to cylindrical surfaces, approximating myelin water diffusion. Key contributions include:  
+This proof-of-concept study introduces two novel dMRI models that characterize the dMRI signal from water diffusion confined to cylindrical surfaces, approximating myelin water diffusion. Key contributions include:  
 
 1. **Derivation of spherical mean signals**, eliminating fiber orientation and dispersion effects.  
 2. **Extension of the models to multiple concentric cylinders**, mimicking the layered structure of myelin.  
