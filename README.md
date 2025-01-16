@@ -28,7 +28,7 @@ Monte Carlo simulations in cylindrical and spiral geometries validate the models
   ```bash
   unzip Data.zip -d Data/
   
-## Main Directory
+## Main Directory and Usage
 Contains additional Python and Matlab scripts to reproduce the figures and analyses presented in the manuscript. For example:
 
     python run_Fig3_Spherical_mean_signal_diffraction_peaks_for_paper.py
@@ -36,7 +36,7 @@ Contains additional Python and Matlab scripts to reproduce the figures and analy
 
 ## Getting Started
 Before running the scripts, ensure the following requirements are met:
-    Python 3.8+
+        Python 3.8+
         Required packages:
         numpy, matplotlib, scipy, DIPY
 
@@ -45,12 +45,6 @@ Clone the repository and navigate to its directory:
 
     git clone https://github.com/username/myelin-water-diffusion-models.git
     cd myelin-water-diffusion-models
-
-## Usage
-*Reproducing Figures*
-Run the scripts in the main directory to generate the figures presented in the manuscript. For example:
-
-    python run_Fig3_Spherical_mean_signal_diffraction_peaks_for_paper.py
 
 ## Citation
 If you use this repository in your research, please cite the manuscript once published:
