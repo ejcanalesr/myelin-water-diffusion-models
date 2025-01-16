@@ -29,10 +29,10 @@ Monte Carlo simulations in cylindrical and spiral geometries validate the models
   unzip Data.zip -d Data/
   
 ## Main Directory
-Contains the following key files:
+Contains additional Python scripts to reproduce the figures and analyses presented in the manuscript. For example:
 
-    myelin_water_diffusionMRI_models.py: Implements the proposed diffusion MRI models for water diffusion on cylindrical surfaces.
-    Additional Python scripts to reproduce the figures and analyses presented in the manuscript.
+    python run_Fig3_Spherical_mean_signal_diffraction_peaks_for_paper.py
+    
 
 ## Getting Started
 Before running the scripts, ensure the following requirements are met:
