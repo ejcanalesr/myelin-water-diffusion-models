@@ -37,18 +37,19 @@ Contains additional Python scripts to reproduce the figures and analyses present
 ## Getting Started
 Before running the scripts, ensure the following requirements are met:
     Python 3.8+
-    Required packages:
+        Required packages:
         numpy, matplotlib, scipy, DIPY
 
 ## Installation
 Clone the repository and navigate to its directory:
-git clone https://github.com/username/myelin-water-diffusion-models.git
-cd myelin-water-diffusion-models
+
+    git clone https://github.com/username/myelin-water-diffusion-models.git
+    cd myelin-water-diffusion-models
 
 ## Usage
 *Reproducing Figures*
 Run the scripts in the main directory to generate the figures presented in the manuscript. For example:
-python run_Fig3_Spherical_mean_signal_diffraction_peaks_for_paper.py
+    python run_Fig3_Spherical_mean_signal_diffraction_peaks_for_paper.py
 
 ## Citation
 If you use this repository in your research, please cite the manuscript once published:
