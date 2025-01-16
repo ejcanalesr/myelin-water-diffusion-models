@@ -38,10 +38,7 @@ Contains additional Python scripts to reproduce the figures and analyses present
 Before running the scripts, ensure the following requirements are met:
     Python 3.8+
     Required packages:
-        -numpy
-        -matplotlib
-        -scipy
-        -DIPY
+        numpy, matplotlib, scipy, DIPY
 
 ## Installation
 Clone the repository and navigate to its directory:
