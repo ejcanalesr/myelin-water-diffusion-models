@@ -6,7 +6,7 @@ This repository contains the models, synthetic datasets, and scripts described i
 
 ---
 
-## Abstract
+## Summary
 
 Quantifying the myelin sheath radius of myelinated axons *in vivo* is critical for understanding, diagnosing, and monitoring various neurological disorders. Despite advancements in diffusion MRI (dMRI) microstructure techniques, models specifically designed to estimate myelin sheath radii have remained unavailable.  
 
@@ -29,7 +29,7 @@ Monte Carlo simulations in cylindrical and spiral geometries validate the models
   unzip Data.zip -d Data/
   
 ## Main Directory
-Contains additional Python scripts to reproduce the figures and analyses presented in the manuscript. For example:
+Contains additional Python and Matlab scripts to reproduce the figures and analyses presented in the manuscript. For example:
 
     python run_Fig3_Spherical_mean_signal_diffraction_peaks_for_paper.py
     
