@@ -49,6 +49,7 @@ Clone the repository and navigate to its directory:
 ## Usage
 *Reproducing Figures*
 Run the scripts in the main directory to generate the figures presented in the manuscript. For example:
+
     python run_Fig3_Spherical_mean_signal_diffraction_peaks_for_paper.py
 
 ## Citation
