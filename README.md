@@ -17,7 +17,7 @@ This proof-of-concept study introduces two novel dMRI models that characterize t
 3. **A method to convert histological distributions of axonal inner radii** into myelin sheath radius distributions.  
 4. **Analytical expressions** to estimate effective myelin sheath radii.  
 
-Monte Carlo simulations in cylindrical and spiral geometries validate the models, demonstrating agreement with analytical predictions across various diffusion regimes. Simulations also reveal strong correlations between effective radii derived from histological distributions and those obtained by fitting the dMRI signal to a single-cylinder model.  
+Monte Carlo simulations in cylindrical and spiral geometries validate the models, demonstrating agreement with analytical predictions. Simulations also reveal strong correlations between effective radii derived from histological distributions and those obtained by fitting the dMRI signal to a single-cylinder model.  
 
 ---
 
