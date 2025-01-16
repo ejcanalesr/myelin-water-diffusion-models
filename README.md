@@ -1,6 +1,6 @@
 # Myelin Water Diffusion MRI Models
 
-This repository contains the models, synthetic datasets, and scripts described in our manuscript (under revision in *Frontiers in Physics*, 2025):  
+This repository contains the models, synthetic datasets, and scripts described in our manuscript (under revision in *Frontiers in Physics*, 2025) 📢:  
 **"A Diffusion MRI Model for Random Walks Confined on Cylindrical Surfaces: Towards Non-Invasive Quantification of Myelin Sheath Radius"**  
 *Erick J. Canales-Rodríguez, Chantal M.W. Tax, Elda Fischi-Gomez, Derek K. Jones, Jean-Philippe Thiran, Jonathan Rafael-Patiño*
 
@@ -21,32 +21,35 @@ Monte Carlo simulations in cylindrical and spiral geometries validate the models
 
 ---
 
-## Repository Structure
+## Repository Structure 📖
 
 - **`Data/`**  
   Includes synthetic datasets used for validation. To access the datasets, unzip the provided `Data.zip` file:  
   ```bash
   unzip Data.zip -d Data/
   
-## Main Directory and Usage
-Contains additional Python and Matlab scripts to reproduce the figures and analyses presented in the manuscript. For example:
+## Main Directory and Usage 🚀
+It contains additional Python and Matlab scripts to reproduce the figures and analyses presented in the manuscript. For example:
 
     python run_Fig3_Spherical_mean_signal_diffraction_peaks_for_paper.py
     
 
-## Getting Started
+## Getting Started - dependencies 🔧
 Before running the scripts, ensure the following requirements are met:
-        Python 3.8+
-        Required packages:
-        numpy, matplotlib, scipy, DIPY
-
-## Installation
+```
+Python 3.8+
+-numpy
+-matplotlib
+-scipy
+-dipy
+```
+## Installation 🎁
 Clone the repository and navigate to its directory:
 
     git clone https://github.com/username/myelin-water-diffusion-models.git
     cd myelin-water-diffusion-models
 
-## Citation
+## Citation ✒️
 If you use this repository in your research, please cite the manuscript once published:
 
 Canales-Rodríguez EJ, Tax CMW, Fischi-Gomez E, Jones DK, Thiran J-P, Rafael-Patiño J.
@@ -54,7 +57,7 @@ A diffusion MRI model for random walks confined on cylindrical surfaces: Towards
 Frontiers in Physics (2025, to be updated).
 Available at: https://arxiv.org/abs/2410.18842
 
-## License
+## License 📄
 This project is licensed under the CC BY public copyright license.
 
 ## Contact
