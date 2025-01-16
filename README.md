@@ -41,7 +41,7 @@ It contains Python and Matlab scripts to reproduce the figures and analyses pres
 ## Getting Started - dependencies 🔧
 Before running the scripts, ensure the following requirements are met:
 ```
-Python 3.8+
+-Python 3.8+
 -numpy
 -matplotlib
 -scipy
