@@ -1,6 +1,6 @@
 # Myelin Water Diffusion MRI Models
 
-This repository contains the models, synthetic datasets, and scripts described in our manuscript (under revision in *Frontiers in Physics*, 2025) 📢:  
+📢 This repository contains the models, synthetic datasets, and scripts described in our manuscript (under revision in *Frontiers in Physics*, 2025):  
 **"A Diffusion MRI Model for Random Walks Confined on Cylindrical Surfaces: Towards Non-Invasive Quantification of Myelin Sheath Radius"**  
 *Erick J. Canales-Rodríguez, Chantal M.W. Tax, Elda Fischi-Gomez, Derek K. Jones, Jean-Philippe Thiran, Jonathan Rafael-Patiño*
 
@@ -60,7 +60,7 @@ Available at: https://arxiv.org/abs/2410.18842
 ## License 📄
 This project is licensed under the CC BY public copyright license.
 
-## Contact
+## Contact 📧
 For questions or suggestions, please contact: Erick J. Canales-Rodríguez
 
     Emails: ejcanalesr@gmail.com, erick.canalesrodriguez@epfl.ch
