@@ -33,7 +33,7 @@ Monte Carlo simulations in cylindrical and spiral geometries validate the models
   unzip Data.zip -d Data/
   
 ## Main Directory and Usage 🚀
-It contains additional Python and Matlab scripts to reproduce the figures and analyses presented in the manuscript. For example:
+It contains Python and Matlab scripts to reproduce the figures and analyses presented in the manuscript. For example:
 
     python run_Fig3_Spherical_mean_signal_diffraction_peaks_for_paper.py
     
