@@ -1,8 +1,6 @@
 # Myelin Water Diffusion MRI Models
----
 
-<img src="Figure1.jpg" width="750">
-
+<img src="Figure1.jpg" width="800">
 ---
 
 This repository contains the models, synthetic data, and scripts described in our manuscript (under revision in *Frontiers in Physics*, 2025):  
