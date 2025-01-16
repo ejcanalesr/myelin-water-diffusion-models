@@ -19,8 +19,6 @@ This proof-of-concept study introduces two novel dMRI models that characterize t
 
 Monte Carlo simulations in cylindrical and spiral geometries validate the models, demonstrating agreement with analytical predictions across various diffusion regimes. Simulations also reveal strong correlations between effective radii derived from histological distributions and those obtained by fitting the dMRI signal to a single-cylinder model.  
 
-These models can integrate with existing multi-compartment dMRI techniques, enabling non-invasive assessments of myelin sheath radii in MRI scanners equipped with strong diffusion gradients and short echo times.
-
 ---
 
 ## Repository Structure
