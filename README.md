@@ -1,6 +1,6 @@
 # Myelin Water Diffusion MRI Models
 
-<img src="Figure1.jpg" width="800">
+<img src="Figure1.jpg" width="1024">
 
 ---
 
