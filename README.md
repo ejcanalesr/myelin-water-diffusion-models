@@ -58,8 +58,9 @@ If you use this repository in your research, please cite the manuscript once pub
 
 Canales-Rodríguez EJ, Tax CMW, Fischi-Gomez E, Jones DK, Thiran J-P, Rafael-Patiño J.
 A diffusion MRI model for random walks confined on cylindrical surfaces: Towards non-invasive quantification of myelin sheath radius.
-Frontiers in Physics (2025, to be updated).
-Available at: https://arxiv.org/abs/2410.18842
+Front. Phys., 06 March 2025. Sec. Medical Physics and Imaging
+Volume 13 - 2025 | https://doi.org/10.3389/fphy.2025.1516630
+Available at: https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2025.1516630/full
 
 ## License 📄
 This project is licensed under the CC BY public copyright license.
