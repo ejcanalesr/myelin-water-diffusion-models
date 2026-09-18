@@ -50,7 +50,7 @@ Before running the scripts, ensure the following requirements are met:
 ## Installation 🎁
 Clone the repository and navigate to its directory:
 
-    git clone https://github.com/username/myelin-water-diffusion-models.git
+    git clone https://github.com/ejcanalesr/myelin-water-diffusion-models.git
     cd myelin-water-diffusion-models
 
 ## Citation ✒️
